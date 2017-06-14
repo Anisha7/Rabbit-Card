@@ -1,1 +1,28 @@
 /* add your CSS here */
+.cardContainer{
+  width:400px;
+  border-style:groove;
+}
+
+.petName{
+  padding-left:20px;
+  font-size:26px;
+}
+
+.petImage{
+  padding-left:20px;
+  width:360px;
+}
+
+.container2{
+  padding:20px;
+}
+
+.container3{
+  border-style:groove;
+  padding:10px
+}
+
+.list{
+  list-style-type:none;
+}
